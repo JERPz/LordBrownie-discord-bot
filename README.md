@@ -1,4 +1,3 @@
-```markdown
 # 🐾 LordBrownie Discord Bot
 
 A cute, cat-themed Discord bot built with Python!  
@@ -27,7 +26,6 @@ It can invite your friends to play games, play music from YouTube, and stay onli
 - [Flask](https://flask.palletsprojects.com/)
 - `.env` for secure token storage
 
-````
 ---
 ## 📁 Project Structure
 
