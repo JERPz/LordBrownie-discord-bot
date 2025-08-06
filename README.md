@@ -48,8 +48,8 @@ It can invite your friends to play games, play music from YouTube, and stay onli
 ### ✅ 1. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/lordbrownie-discord-bot.git
-cd lordbrownie-discord-bot
+git clone https://github.com/JERPz/LordBrownie-discord-bot.git
+cd LordBrownie-discord-bot
 ````
 
 ### ✅ 2. Create a `.env` File
